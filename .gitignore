@@ -1,0 +1,4 @@
+# dirs
+
+docs/.vuepress/dist/
+node_modules/
