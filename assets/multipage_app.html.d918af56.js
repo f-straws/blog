@@ -1,0 +1,1 @@
+const e={key:"v-492746b0",path:"/vuepress/multipage_app.html",title:"Multipage VuePress app",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642165033e3,contributors:[{name:"F. Swart",email:"f.swart@gmail.com",commits:1}]},filePathRelative:"vuepress/multipage_app.md"};export{e as data};

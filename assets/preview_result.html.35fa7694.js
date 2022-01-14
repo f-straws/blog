@@ -1,0 +1,1 @@
+const e={key:"v-274425cc",path:"/vuepress/preview_result.html",title:"Preview the result",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642165033e3,contributors:[{name:"F. Swart",email:"f.swart@gmail.com",commits:1}]},filePathRelative:"vuepress/preview_result.md"};export{e as data};

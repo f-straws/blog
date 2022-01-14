@@ -1,0 +1,1 @@
+const t={key:"v-5b817cd4",path:"/vuepress/syntactic_dev_candy.html",title:"Syntactic development candy",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642165033e3,contributors:[{name:"F. Swart",email:"f.swart@gmail.com",commits:1}]},filePathRelative:"vuepress/syntactic_dev_candy.md"};export{t as data};

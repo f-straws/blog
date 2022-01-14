@@ -1,0 +1,1 @@
+const e={key:"v-7b43b95c",path:"/vuepress/theme_configuration.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"The app's looks",slug:"the-app-s-looks",children:[]}],git:{updatedTime:1642165033e3,contributors:[{name:"F. Swart",email:"f.swart@gmail.com",commits:1}]},filePathRelative:"vuepress/theme_configuration.md"};export{e as data};

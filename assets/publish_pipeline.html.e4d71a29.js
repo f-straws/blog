@@ -1,0 +1,1 @@
+const e={key:"v-1186836e",path:"/vuepress/publish_pipeline.html",title:"Publish pipeline",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Unpublishing",slug:"unpublishing",children:[]}],git:{updatedTime:1642165033e3,contributors:[{name:"F. Swart",email:"f.swart@gmail.com",commits:1}]},filePathRelative:"vuepress/publish_pipeline.md"};export{e as data};

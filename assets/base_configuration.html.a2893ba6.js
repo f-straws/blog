@@ -1,0 +1,1 @@
+const e={key:"v-5a390990",path:"/vuepress/base_configuration.html",title:"Base configuration",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"The base URL",slug:"the-base-url",children:[]}],git:{updatedTime:1642165033e3,contributors:[{name:"F. Swart",email:"f.swart@gmail.com",commits:1}]},filePathRelative:"vuepress/base_configuration.md"};export{e as data};
