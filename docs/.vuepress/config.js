@@ -23,7 +23,8 @@ module.exports = {
                         '/vuepress/base_configuration.md',
                         '/vuepress/publish_pipeline.md',
                         '/vuepress/syntactic_dev_candy.md',
-                        '/vuepress/multipage_app.md'
+                        '/vuepress/multipage_app.md',
+                        '/vuepress/appendix.md'
                     ]
                 }
             ]
